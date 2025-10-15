@@ -10,3 +10,18 @@
 <p>Meu nome é [Sarah Beatriz Ramalho de Lima] e sou aluno(a) do curso de [Informática].</p>
 <h2>Objetivo</h2>
 <p>Estou praticando Git, GitHub e HTML básico.</p>
+
+<h2>Hobbies</h2> 
+<ul>
+<li>Programação</li>
+<li>Estudos online</li>
+<li>Livros</li>
+<li>Séries e Filmes</li>
+<li>Praticar Esportes</li>
+<li>Música</li>
+</ul>
+<h2>Aprendizado</h2>
+<p>Estou aprendendo a usar Git, GitHub e HTML para controlar versões e criar
+páginas web simples.</p>
+</body>
+</html>
